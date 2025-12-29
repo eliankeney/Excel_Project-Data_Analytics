@@ -11,7 +11,7 @@ The goal of this project is to demonstrate data analysis, visualization, and bus
 
 <img width="1486" height="673" alt="Clean version" src="https://github.com/user-attachments/assets/3635a8e1-b599-4834-a9e9-a27b9792af09" />
 
-[Check out my work here](Project_1-Dashboard)
+[Check out my work here](Project_1-Dashboard.xlsx)
 
 - An interactive dashboard analyzing the global data science job market
 - Filters by job title, country, and employment type to explore roles worldwide
@@ -48,7 +48,7 @@ Some highly paid skills are less common, while widely requested skills don’t a
 
 Slicers allow filtering by Job Title and Country, enabling quick comparisons across roles and locations.
 
-[Here is the Excel File for the other Charts and Graphs displayed above](Project_2-Analysis)
+[Here is the Excel File for the other Charts and Graphs displayed above](Project_2-Analysis.xlsx)
 
 ## 🎯 Key Takeaways
 
